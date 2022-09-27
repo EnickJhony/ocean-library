@@ -1,0 +1,8 @@
+header nav img{
+    width: 120px;
+}
+header nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
